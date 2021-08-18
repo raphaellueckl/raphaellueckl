@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Raphael
+- 👀 I’m interested in the whole javascript ecosystem and bitcoin/iota!
+- 🌱 I’m currently learning blockchain and frontend topics.
+- 💞️ I’m looking to collaborate with nice and open minded people.
+- 📫 Reach me on
+  - linkedin https://www.linkedin.com/in/raphael-l%C3%BCckl-350389b5
+  - telegram @codepleb
